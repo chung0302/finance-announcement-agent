@@ -1,0 +1,20 @@
+# Streamlit 运行配置
+#
+# 为什么要固定 127.0.0.1：
+# 本机开了系统代理，浏览器访问 http://localhost:8501 时会被代理接管，
+# 返回 502 Bad Gateway，看起来就像"网页打不开"。
+# 把地址固定成 127.0.0.1 并只绑定回环网卡，代理会直接放行。
+
+[server]
+address = "127.0.0.1"
+port = 8501
+# 关掉文件监视器：本机依赖装在托管环境里，watcher 会在空闲时反复扫描拖慢启动
+fileWatcherType = "auto"
+
+[browser]
+serverAddress = "127.0.0.1"
+serverPort = 8501
+gatherUsageStats = false
+
+[theme]
+base = "light"

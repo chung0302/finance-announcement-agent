@@ -1,0 +1,10 @@
+# 运行时依赖（Python >= 3.10，本机实测 3.13.14 / streamlit 1.66.1 可用）
+# streamlit 下限取 1.49：界面使用 width="stretch" 写法（旧版 use_container_width 已废弃）
+streamlit>=1.49,<2
+pypdf>=4.0,<7
+pydantic>=2.7,<3
+pandas>=2.0,<4
+matplotlib>=3.8,<4
+pytest>=8.0
+requests>=2.31,<3
+python-dotenv>=1.0,<2

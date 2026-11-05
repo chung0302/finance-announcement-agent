@@ -1,0 +1,86 @@
+[3] style= | line=360 lineRule=auto |  | sz=12.0pt
+     
+[7] style= | line=360 lineRule=auto |  | sz=45.0pt,bold
+     实验报告
+[15] style= | line=360 lineRule=auto | left=0 leftChars=0 firstLine=1484 firstLineChars=528 | sz=14.0pt,bold
+     课程名称：  财经智能体开发与应用         
+[16] style= | line=360 lineRule=auto | left=0 leftChars=0 firstLine=1484 firstLineChars=528 | ascii=仿宋_GB2312,sz=14.0pt,bold
+     专    业：                               
+[17] style= | line=360 lineRule=auto | left=0 leftChars=0 firstLine=1484 firstLineChars=528 | ascii=仿宋_GB2312,sz=14.0pt,bold
+     任课教师：    宁  静                     
+[18] style= | line=360 lineRule=auto | left=0 leftChars=0 firstLine=1484 firstLineChars=528 | sz=14.0pt,bold
+     学    号：                               
+[19] style= | line=360 lineRule=auto | left=0 leftChars=0 firstLine=1484 firstLineChars=528 | sz=14.0pt,bold
+     姓    名：                               
+[20] style= | line=360 lineRule=auto | left=0 leftChars=0 firstLine=1484 firstLineChars=528 | sz=14.0pt,bold
+     实验日期：     2026-2027学年  第1学期   
+[22] style= | line=400 lineRule=exact |  | sz=15.0pt
+     
+[23] style= | line=400 lineRule=exact |  | sz=12.0pt
+      广东财经大学教务处制  
+[表格]
+  | 项目 | 一15分 | 二40分 | 三30分 | 四10分 | 格式规范5分 | 总  分
+  | 得  分 |  |  |  |  |  | 
+  | 评阅人 |  |  |  |  |  | 
+  | 复核人 |  |  |  |  |  | 
+[/表格]
+[26] style=3 | line=400 lineRule=exact |  | ascii=宋体,hAnsi=宋体,sz=10.5pt,bold
+       
+[27] style=3 | line=360 lineRule=atLeast |  | ascii=宋体,hAnsi=宋体,sz=14.0pt,bold
+     《财经智能体开发与应用》实验报告
+[28] style=3 | line=360 lineRule=atLeast |  | ascii=宋体,hAnsi=宋体,sz=14.0pt,bold
+     ——副标题（自拟）
+[29] style=3 | line=360 lineRule=atLeast | firstLine=391 firstLineChars=150 | 
+     
+[30] style=3 | line=360 lineRule=atLeast | firstLine=522 firstLineChars=200 | sz=12.0pt,bold
+     一、案例选题（15分）（标题小四宋体加粗）
+[31] style= |  | firstLine=420 firstLineChars=200 | sz=10.5pt
+     （内容：问题的来源和背景及意义。选题既可以聚焦经济管理教育或社会经济领域的热点/难点问题，也可以源自在学习和生活中遇到的问题。500字以内）
+[33] style= | line=360 lineRule=atLeast | firstLine=522 firstLineChars=200 | ascii=Times New Roman,eastAsia=宋体,hAnsi=Times New Roman,sz=12.0pt,bold
+     案例分析（40分） （标题小四宋体加粗）
+[34] style= | line=360 lineRule=atLeast | left=0 leftChars=0 firstLine=481 firstLineChars=228 | bold
+     （内容：说明将问题拆解成哪些任务？任务目标是什么？用到什么AI工具，如workbuddy、claude、codex或云蝶都可以。说明每个任务的提示词，涉及到的智能体、工作流、知识库、大模型等，可配图表。要求：
+[35] style= | line=360 lineRule=atLeast | left=0 leftChars=0 firstLine=478 firstLineChars=228 | 
+     恰当、准确地运用经济、管理或者数据科学理论或模型构建案例分析框架
+[36] style= | line=360 lineRule=atLeast | left=0 leftChars=0 firstLine=478 firstLineChars=228 | 
+     恰当运用定量/定性分析工具(如统计分析、计量模型、比较分析等)，分析过程。1000字以内）
+[38] style= | line=360 lineRule=atLeast | firstLine=522 firstLineChars=200 | ascii=Times New Roman,eastAsia=宋体,hAnsi=Times New Roman,sz=12.0pt,bold
+     三、结论（30分）（标题小四宋体加粗）
+[39] style= | line=360 lineRule=atLeast | firstLine=420 firstLineChars=200 | ascii=Times New Roman,eastAsia=宋体,hAnsi=Times New Roman,sz=10.5pt
+     （内容：可以是一个智能体、一个小网站或者一个小程序，也可以是数据分析报告。如果是功能网站和微信小程序，写清楚系统架构和功能；如果是数据分析报告，要说明数据分析使用的方法和模型。
+[40] style= | line=360 lineRule=atLeast | firstLine=422 firstLineChars=200 | ascii=Times New Roman,eastAsia=宋体,hAnsi=Times New Roman,sz=10.5pt,bold
+     要求：所选实验方法能有效服务于案例问题的分析。
+[41] style= | line=360 lineRule=atLeast | firstLine=420 firstLineChars=200 | ascii=Times New Roman,eastAsia=宋体,hAnsi=Times New Roman,sz=10.5pt
+     实验场景贴近现实，实验逻辑严谨。
+[42] style= | line=360 lineRule=atLeast | firstLine=420 firstLineChars=200 | ascii=Times New Roman,eastAsia=宋体,hAnsi=Times New Roman,sz=10.5pt
+     实验步骤记录详实。分析深入透彻，能透过数据表面发现内在规律、因果关系，对分析结果有合理(独到)的见解。可配图表，1000字以内）
+[45] style= | line=360 lineRule=atLeast | firstLine=511 firstLineChars=196 | ascii=宋体,hAnsi=宋体,sz=12.0pt,bold
+     四、认识收获与感想体会（10分）（标题小四宋体加粗）
+[46] style= | line=360 lineRule=atLeast | firstLine=420 firstLineChars=200 | ascii=Times New Roman,eastAsia=宋体,hAnsi=Times New Roman,sz=10.5pt
+     （内容：谈谈你对本实验课程实验内容、实验组织方式等的认识与体会（例如对“在做中学，在学中做，通过做获得体验与感悟”这种学习方式的收获与体会，500-800字）
+[48] style= | line=400 lineRule=exact |  | color=FF0000
+       
+[49] style= | line=400 lineRule=exact | firstLine=210 firstLineChars=100 | color=auto
+     排版要求：
+[50] style= | line=400 lineRule=exact | firstLine=210 firstLineChars=100 | ascii=宋体,hAnsi=宋体,color=auto
+     全文3000字左右（含图表）。
+[51] style= | line=400 lineRule=exact | firstLine=230 firstLineChars=100 | color=auto
+     各级标题正确格式一、（一）1.（1）请自拟各级标题，根据需要，可以列示二级或者三级标题。
+[52] style= | line=400 lineRule=exact | firstLine=231 firstLineChars=100 | bold,color=auto
+     编辑排版时请删掉全部黄色高亮部分。
+[53] style= | line=400 lineRule=exact | firstLine=210 firstLineChars=100 | ascii=宋体,hAnsi=宋体,color=auto
+     字体字号：标题宋体小四号加粗；正文内容宋体五号字；行距：固定值18磅；
+[54] style= | line=400 lineRule=exact | firstLine=210 firstLineChars=100 | ascii=宋体,hAnsi=宋体,color=auto
+     纸张设置：A4；上下边距：2.5厘米；左3.0厘米;右边距：2.5厘米（本模版已编辑）；
+[55] style= | line=400 lineRule=exact | firstLine=210 firstLineChars=100 | ascii=宋体,hAnsi=宋体,color=auto
+     页码位置：页面底端（页脚）居中；
+[56] style= | line=400 lineRule=exact | firstLine=210 firstLineChars=100 | ascii=宋体,hAnsi=宋体,color=auto
+     打印版左边装订2颗订书钉。
+[57] style= | line=400 lineRule=exact | firstLine=210 firstLineChars=100 | ascii=宋体,hAnsi=宋体,color=auto
+     本报告提交A4纸电子版与打印版；正文部分总页数尽量控制在5-6页。
+[58] style= | line=400 lineRule=exact | firstLine=210 firstLineChars=100 | ascii=宋体,hAnsi=宋体,color=auto
+     电子版个人期末实验报告的文件名命名格式：学号+姓名。
+[59] style= | line=400 lineRule=exact | firstLine=211 firstLineChars=100 | ascii=黑体,eastAsia=黑体,hAnsi=黑体,bold,color=auto
+     提交ftp://172.31.140.106/  账号：njs, 密码：（空）
+[60] style= | line=400 lineRule=exact | firstLine=210 firstLineChars=100 | ascii=宋体,hAnsi=宋体,color=auto
+     提交截至时间：2026年11月15日前。

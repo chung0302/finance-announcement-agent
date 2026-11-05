@@ -1,0 +1,26 @@
+# 密钥与本地产物：不入库
+.env
+*.log
+
+# 运行期缓存
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+
+# 评测/调试产物（可复现，不必提交；results/ 下的 csv/json/png 保留）
+evaluations/*.log
+evaluations/diag_out.txt
+evaluations/measure_out.txt
+evaluations/gold_check.txt
+evaluations/dedupe_diag.txt
+evaluations/secret_scan.txt
+evaluations/home_check.png
+evaluations/pytest*.log
+_smoke_out.txt
+run_server.log
+
+# 系统垃圾文件
+Thumbs.db
+.DS_Store
+~$*.docx
